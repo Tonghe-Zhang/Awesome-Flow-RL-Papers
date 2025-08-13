@@ -12,8 +12,8 @@ Please give it a star if you like this project!
 | ReinFlow      | [arXiv](https://arxiv.org/abs/2505.22094)                  | [GitHub](https://github.com/ReinFlow/ReinFlow) | [Link](https://reinflow.github.io/)             | Robotics| Offline        | Off-policy            | Fine-tune               |
 | FPO           | [arXiv](https://arxiv.org/abs/2507.21053)                  | [GitHub](https://github.com/akanazawa/fpo)     | [Link](https://flowreinforce.github.io/)        | Robotics| Offline        | On-policy             | Pre-train               |
 | DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)                  | [GitHub](https://github.com/XueZeyue/DanceGRPO)| N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
-| TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)              | N/A                                            | N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
 | Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)                  | N/A                                            | N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
+| TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)              | N/A                                            | N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
 
 
 
