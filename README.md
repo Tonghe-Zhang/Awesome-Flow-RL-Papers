@@ -7,17 +7,16 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 
 ## Flow Matching and Reinforcement Learning
 
-| Method        | Paper                                                      | Code                                           | Website                                         | Domain  | Online/Offline | On-policy/Off-policy | Pre-train/Fine-tune     |
-|---------------|------------------------------------------------------------|------------------------------------------------|-------------------------------------------------|---------|----------------|-----------------------|--------------------------|
-| FQL           | [arXiv](https://arxiv.org/abs/2502.02538)                  | [GitHub](https://github.com/seohongpark/fql)   | [Link](https://github.com/seohongpark/fql)      | **Robotics**| Off2On         | Off-policy            | Pre-train + Fine-tune   |
-| ReinFlow      | [arXiv](https://arxiv.org/abs/2505.22094)                  | [GitHub](https://github.com/ReinFlow/ReinFlow) | [Link](https://reinflow.github.io/)             | **Robotics**| Offline        | Off-policy            | Fine-tune               |
-| FPO           | [arXiv](https://arxiv.org/abs/2507.21053)                  | [GitHub](https://github.com/akanazawa/fpo)     | [Link](https://flowreinforce.github.io/)        | **Robotics** | Offline        | On-policy             | Pre-train               |
-| Flow-GRPO     | [arXiv](https://arxiv.org/abs/2505.05470)                  | [GitHub](https://github.com/yifan123/flow_grpo)| [Link](https://gongyeliu.github.io/Flow-GRPO/)  | CV      | Online         | On-policy             | Fine-tune               |
-| DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)                  | [GitHub](https://github.com/XueZeyue/DanceGRPO)| N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
-| Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)                  | N/A                                            | N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
-| TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)              | N/A                                            | N/A                                             | CV      | Online         | On-policy             | Fine-tune               |
-
-
+| Method        | Paper                                                  | Code                                                       | Website                                                     | Domain       | Online/Offline | On-policy/Off-policy | Pre-train/Fine-tune   |
+|---------------|--------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------|--------------|----------------|----------------------|-------------------------|
+| FQL           | [arXiv](https://arxiv.org/abs/2502.02538)               | [GitHub](https://github.com/seohongpark/fql)               | [Link](https://github.com/seohongpark/fql)                  | **Robotics** | Off2On         | Off-policy           | Pre-train + Fine-tune   |
+| ReinFlow      | [arXiv](https://arxiv.org/abs/2505.22094)               | [GitHub](https://github.com/ReinFlow/ReinFlow)             | [Link](https://reinflow.github.io/)                         | **Robotics** | Offline        | Off-policy           | Fine-tune               |
+| FPO           | [arXiv](https://arxiv.org/abs/2507.21053)               | [GitHub](https://github.com/akanazawa/fpo)                 | [Link](https://flowreinforce.github.io/)                    | **Robotics** | Offline        | On-policy            | Pre-train               |
+| DSRL          | [arXiv](https://arxiv.org/abs/2506.15799)               | [GitHub](https://github.com/nakamotoo/dsrl_pi0)           | [Link](https://diffusion-steering.github.io/)               | **Robotics** | Online         | On-policy            | Fine-tune               |
+| Flow-GRPO     | [arXiv](https://arxiv.org/abs/2505.05470)               | [GitHub](https://github.com/yifan123/flow_grpo)            | [Link](https://gongyeliu.github.io/Flow-GRPO/)              | CV           | Online         | On-policy            | Fine-tune               |
+| DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)               | [GitHub](https://github.com/XueZeyue/DanceGRPO)            | N/A                                                         | CV           | Online         | On-policy            | Fine-tune               |
+| Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)               | [Github](https://github.com/Tencent-Hunyuan/MixGRPO)       | [Link](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | CV           | Online         | On-policy            | Fine-tune               |
+| TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)           | [Github](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | CV           | Online         | On-policy            | Fine-tune               |
 
 ## The Theory of Flow Matching Models
 
