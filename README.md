@@ -17,6 +17,10 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 | DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)               | [GitHub](https://github.com/XueZeyue/DanceGRPO)            | N/A                                                         | CV           | Online         | On-policy            | Fine-tune               |
 | Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)               | [Github](https://github.com/Tencent-Hunyuan/MixGRPO)       | [Link](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | CV           | Online         | On-policy            | Fine-tune               |
 | TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)           | [Github](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | CV           | Online         | On-policy            | Fine-tune               |
+| DSRL-pi0 | [arXiv](https://arxiv.org/abs/2506.15799) | [GitHub](https://github.com/nakamotoo/dsrl_pi0) | N/A | **Robotics** | On/Off/Off2On | Off-policy |
+
+
+
 
 ## The Theory of Flow Matching Models
 
