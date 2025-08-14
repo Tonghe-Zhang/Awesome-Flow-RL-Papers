@@ -3,7 +3,7 @@ A collection of paper/projects that trains flow matching model/policies via RL. 
 
 Please give it a star ⭐ if you like this project! 
 
-Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455)
+Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455), [Zeyue Xue](https://xuezeyue.github.io/)
 
 ## Flow Matching and Reinforcement Learning
 
@@ -14,7 +14,7 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 | FPO           | [arXiv](https://arxiv.org/abs/2507.21053)               | [GitHub](https://github.com/akanazawa/fpo)                 | [Link](https://flowreinforce.github.io/)                    | **Robotics** | Offline        | On-policy            | Pre-train               |
 | DSRL          | [arXiv](https://arxiv.org/abs/2506.15799)               | [GitHub](https://github.com/ajwagen/dsrl)                  | [Link](https://diffusion-steering.github.io/)               | **Robotics** | Online         | Off-policy           | Fine-tune               |
 | Flow-GRPO     | [arXiv](https://arxiv.org/abs/2505.05470)               | [GitHub](https://github.com/yifan123/flow_grpo)            | [Link](https://gongyeliu.github.io/Flow-GRPO/)              | CV           | Online         | On-policy            | Fine-tune               |
-| DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)               | [GitHub](https://github.com/XueZeyue/DanceGRPO)            | N/A                                                         | CV           | Online         | On-policy            | Fine-tune               |
+| DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)               | [GitHub](https://github.com/XueZeyue/DanceGRPO)            | [Link](https://dancegrpo.github.io/)                        | CV           | Online         | On-policy            | Fine-tune               |
 | Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)               | [Github](https://github.com/Tencent-Hunyuan/MixGRPO)       | [Link](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | CV           | Online         | On-policy            | Fine-tune               |
 | TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)           | [Github](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | CV           | Online         | On-policy            | Fine-tune               |
 | DSRL-pi0 | [arXiv](https://arxiv.org/abs/2506.15799) | [GitHub](https://github.com/nakamotoo/dsrl_pi0) | N/A | **Robotics** | On/Off/Off2On | Off-policy | Fine-tune | 
