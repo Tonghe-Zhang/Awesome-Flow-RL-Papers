@@ -22,15 +22,6 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 
 
 
-## The Theory of Flow Matching Models
-
-
-
-## Flow Matching x Diffusion
-
-
-
-
 
 
 
