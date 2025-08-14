@@ -1,7 +1,7 @@
 # Awesome-Flow-RL-Papers
 A collection of paper/projects that trains flow matching model/policies via RL. We will focus on the application to CV/Robotics. The list will be updated on a regular basis. 
 
-Please give it a star if you like this project! 
+Please give it a star ⭐ if you like this project! 
 
 Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455)
 
