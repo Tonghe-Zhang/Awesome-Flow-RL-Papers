@@ -19,6 +19,7 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 | TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)           | [Github](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | CV           | Online         | On-policy            | Fine-tune               |
 | DSRL-pi0 | [arXiv](https://arxiv.org/abs/2506.15799) | [GitHub](https://github.com/nakamotoo/dsrl_pi0) | N/A | **Robotics** | On/Off/Off2On | Off-policy | Fine-tune | 
 | FPMD| [arXiv](https://arxiv.org/pdf/2507.23675) | N/A | N/A | **Robotics** | Online | Off-policy | Pre-train | 
+| RLFM| [arXiv](https://arxiv.org/abs/2507.15073) | [GitHub](https://github.com/spfrommer/flowmatching_policy_rl) | N/A | **Robotics** | Online | On-policy | Fine-tune | 
 
 
 
