@@ -7,7 +7,7 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 
 ## Flow Matching and Reinforcement Learning
 
-| Method        | Paper                                                  | Code                                                       | Website                                                     | Domain       | Online/Offline | On-policy/Off-policy | Pre-train/Fine-tune   |
+| Method        | Paper                                                  | Code                                                       | Website                                                     | Domain       | Online/Offline | On/Off-policy | Pre-train/Fine-tune   |
 |---------------|--------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------|--------------|----------------|----------------------|-------------------------|
 | FQL           | [arXiv](https://arxiv.org/abs/2502.02538)               | [GitHub](https://github.com/seohongpark/fql)               | [Link](https://github.com/seohongpark/fql)                  | **Robotics** | Off2On         | Off-policy           | Pre-train + Fine-tune   |
 | ReinFlow      | [arXiv](https://arxiv.org/abs/2505.22094)               | [GitHub](https://github.com/ReinFlow/ReinFlow)             | [Link](https://reinflow.github.io/)                         | **Robotics** | Online        | On-policy           | Fine-tune               |
