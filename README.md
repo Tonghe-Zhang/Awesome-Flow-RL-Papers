@@ -17,7 +17,7 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 | DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)               | [GitHub](https://github.com/XueZeyue/DanceGRPO)            | [Link](https://dancegrpo.github.io/)                        | CV           | Online         | On-policy            | Fine-tune               |
 | Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)               | [Github](https://github.com/Tencent-Hunyuan/MixGRPO)       | [Link](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | CV           | Online         | On-policy            | Fine-tune               |
 | TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)           | [Github](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | CV           | Online         | On-policy            | Fine-tune               |
-| DSRL-pi0 | [arXiv](https://arxiv.org/abs/2506.15799) | [GitHub](https://github.com/nakamotoo/dsrl_pi0) | N/A | **Robotics** | On/Off/Off2On | Off-policy | Fine-tune | 
+| DSRL-pi0 | [arXiv](https://arxiv.org/abs/2506.15799) | [GitHub](https://github.com/nakamotoo/dsrl_pi0) | N/A | **Robotics** | Both | Off-policy | Fine-tune | 
 | FPMD| [arXiv](https://arxiv.org/pdf/2507.23675) | N/A | N/A | **Robotics** | Online | Off-policy | Pre-train | 
 | RLFM| [arXiv](https://arxiv.org/abs/2507.15073) | [GitHub](https://github.com/spfrommer/flowmatching_policy_rl) | N/A | **Robotics** | Online | On-policy | Fine-tune | 
 
