@@ -3,7 +3,7 @@ A collection of paper/projects that trains flow matching model/policies via RL. 
 
 Please give it a star ⭐ if you like this project! 
 
-Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455), [Zeyue Xue](https://xuezeyue.github.io/)
+Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455), [Zeyue Xue](https://xuezeyue.github.io/), [Yixiao Huang](https://github.com/yixiao-huang)
 
 ## Flow Matching and Reinforcement Learning
 
