@@ -13,32 +13,15 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 | ReinFlow      | [arXiv](https://arxiv.org/abs/2505.22094)              | [GitHub](https://github.com/ReinFlow/ReinFlow)             | [Link](https://reinflow.github.io/)                         | [Link](https://wandb.ai/reinflow/projects)         | **Robotics** | Online     | On-policy      | Fine-tune             |
 | FPO           | [arXiv](https://arxiv.org/abs/2507.21053)              | [GitHub](https://github.com/akanazawa/fpo)                 | [Link](https://flowreinforce.github.io/)                    | N/A                                                | **Robotics** | Online     | On-policy      | Pre-train             |
 | DSRL          | [arXiv](https://arxiv.org/abs/2506.15799)              | [GitHub](https://github.com/ajwagen/dsrl)                  | [Link](https://diffusion-steering.github.io/)               | N/A                                                | **Robotics** | Online     | Off-policy     | Fine-tune             |
-| FlowRL        | [arXiv](https://arxiv.org/pdf/2506.12811)              | [GitHub](https://github.com/bytedance/FlowRL)              | N/A                                                         | N/A                                                | **Robotics** | Online     | Off-policy     | Fine-tune
-|
+| FlowRL        | [arXiv](https://arxiv.org/pdf/2506.12811)              | [GitHub](https://github.com/bytedance/FlowRL)              | N/A                                                         | N/A                                                | **Robotics** | Online     | Off-policy     | Fine-tune             |
 | Flow-GRPO     | [arXiv](https://arxiv.org/abs/2505.05470)              | [GitHub](https://github.com/yifan123/flow_grpo)            | [Link](https://gongyeliu.github.io/Flow-GRPO/)              | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
 | DanceGRPO     | [arXiv](https://arxiv.org/abs/2505.07818)              | [GitHub](https://github.com/XueZeyue/DanceGRPO)            | [Link](https://dancegrpo.github.io/)                        | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
-| Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)              | [Github](https://github.com/Tencent-Hunyuan/MixGRPO)       | [Link](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
-| TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)          | [Github](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
-| Pref-GRPO     | [arXiv](https://arxiv.org/pdf/2508.20751)           | [Github](https://github.com/CodeGoat24/Pref-GRPO)             | [Link](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)| N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
-| Flow-CPS      | [arXiv](https://arxiv.org/pdf/2509.05952)           | [Github](https://github.com/IamCreateAI/FlowCPS)              | [Link](https://github.com/IamCreateAI/FlowCPS)               | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
-| BranchGRPO    | [arXiv](https://arxiv.org/pdf/2509.06040)           | [Github](https://github.com/Fredreic1849/BranchGRPO)          | [Link](https://fredreic1849.github.io/BranchGRPO-Webpage/)  | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
-| DiffusionNet  | [arXiv](https://www.arxiv.org/pdf/2509.16117)       | [Github](https://research.nvidia.com/labs/dir/DiffusionNFT/)  | [Link](https://research.nvidia.com/labs/dir/DiffusionNFT/)  | N/A                                                | CV           | Online     | On-policy      ｜ Fine-tune
-|
+| Mix-GRPO      | [arXiv](https://arxiv.org/pdf/2507.21802)              | [GitHub](https://github.com/Tencent-Hunyuan/MixGRPO)       | [Link](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
+| TempFlow-GRPO | [arXiv](https://www.arxiv.org/pdf/2508.04324)          | [GitHub](https://github.com/Shredded-Pork/TempFlow-GRPO)   | [Link](https://tempflowgrpo.github.io/)                     | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
+| Pref-GRPO     | [arXiv](https://arxiv.org/pdf/2508.20751)              | [GitHub](https://github.com/CodeGoat24/Pref-GRPO)          | [Link](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)| N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
+| Flow-CPS      | [arXiv](https://arxiv.org/pdf/2509.05952)              | [GitHub](https://github.com/IamCreateAI/FlowCPS)           | [Link](https://github.com/IamCreateAI/FlowCPS)              | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
+| BranchGRPO    | [arXiv](https://arxiv.org/pdf/2509.06040)              | [GitHub](https://github.com/Fredreic1849/BranchGRPO)       | [Link](https://fredreic1849.github.io/BranchGRPO-Webpage/)  | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
+| DiffusionNet  | [arXiv](https://www.arxiv.org/pdf/2509.16117)          | [GitHub](https://research.nvidia.com/labs/dir/DiffusionNFT/)| [Link](https://research.nvidia.com/labs/dir/DiffusionNFT/)  | N/A                                                | CV           | Online     | On-policy      | Fine-tune             |
 | DSRL-pi0      | [arXiv](https://arxiv.org/abs/2506.15799)              | [GitHub](https://github.com/nakamotoo/dsrl_pi0)            | N/A                                                         | N/A                                                | **Robotics** | Both       | Off-policy     | Fine-tune             |
 | FPMD          | [arXiv](https://arxiv.org/pdf/2507.23675)              | N/A                                                        | N/A                                                         | N/A                                                | **Robotics** | Online     | Off-policy     | Pre-train             |
-| RLFM          | [arXiv](https://arxiv.org/abs/2507.15073)              | [GitHub](https://github.com/spfrommer/flowmatching_policy_rl) | N/A                                                      | N/A                                                | **Robotics** | Online     | On-policy      | Fine-tune             |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| RLFM          | [arXiv](https://arxiv.org/abs/2507.15073)              | [GitHub](https://github.com/spfrommer/flowmatching_policy_rl) | N/A                                                       | N/A                                                | **Robotics** | Online     | On-policy      | Fine-tune             |
