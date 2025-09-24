@@ -1,5 +1,5 @@
 # Awesome-Flow-RL-Papers
-A collection of paper/projects that trains flow matching model/policies via RL. We will focus on the application to CV/Robotics. The list will be updated on a regular basis. 
+A collection of paper/projects that trains flow matching model/policies via RL. We will focus on the application to CV/Robotics/NLP. The list will be updated on a regular basis. 
 
 Please give it a star ⭐ if you like this project! 
 
