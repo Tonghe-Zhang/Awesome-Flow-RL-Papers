@@ -3,7 +3,7 @@ A collection of paper/projects that trains flow matching model/policies via RL. 
 
 Please give it a star ⭐ if you like this project! 
 
-Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455), [Zeyue Xue](https://xuezeyue.github.io/), [Yixiao Huang](https://github.com/yixiao-huang), [Feng Chen](https://github.com/chenf-ai)
+Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](https://github.com/chenkang455), [Zeyue Xue](https://xuezeyue.github.io/), [Yixiao Huang](https://github.com/yixiao-huang), [Feng Chen](https://github.com/chenf-ai), [Zhenglin Wan](https://vanzll.github.io/)
 
 ## Flow Matching and Reinforcement Learning
 
@@ -11,6 +11,7 @@ Contributors:  [Tonghe Zhang](https://github.com/Tonghe-Zhang), [Kang Chen](http
 |---------------|--------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------|--------------|------------|----------------|-----------------------|
 | FQL           | [arXiv](https://arxiv.org/abs/2502.02538)              | [GitHub](https://github.com/seohongpark/fql)               | [Link](https://github.com/seohongpark/fql)                  | N/A                                                | **Robotics** | Off2On     | Off-policy     | Pre-train + Fine-tune |
 | ReinFlow      | [arXiv](https://arxiv.org/abs/2505.22094)              | [GitHub](https://github.com/ReinFlow/ReinFlow)             | [Link](https://reinflow.github.io/)                         | [Link](https://wandb.ai/reinflow/projects)         | **Robotics** | Online     | On-policy      | Fine-tune             |
+| GoRL          | [arXiv](https://arxiv.org/abs/2512.02581)              | [GitHub](https://github.com/bennidict23/GoRL)              | N/A                                                         | N/A                                                | **Robotics** | Online     | On-policy      | Pre-train             |
 | FPO           | [arXiv](https://arxiv.org/abs/2507.21053)              | [GitHub](https://github.com/akanazawa/fpo)                 | [Link](https://flowreinforce.github.io/)                    | N/A                                                | **Robotics** | Online     | On-policy      | Pre-train             |
 | DSRL          | [arXiv](https://arxiv.org/abs/2506.15799)              | [GitHub](https://github.com/ajwagen/dsrl)                  | [Link](https://diffusion-steering.github.io/)               | N/A                                                | **Robotics** | Online     | Off-policy     | Fine-tune             |
 | FlowRL        | [arXiv](https://arxiv.org/pdf/2506.12811)              | [GitHub](https://github.com/bytedance/FlowRL)              | N/A                                                         | N/A                                                | **Robotics** | Online     | Off-policy     | Fine-tune             |
